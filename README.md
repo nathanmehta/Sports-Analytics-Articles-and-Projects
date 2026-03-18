@@ -2,6 +2,12 @@
 
 my code for my articles for Sports Analytics Group at Berkeley and personal projects
 
+## HardHit Projection
+  Projecting Pro hard hit rates from amateur, first by using a correction to wood bat rates... then conducting regression modeling
+
+## Trackman Data Vis
+  Using trackman export to create visuals that summarize performance succinctly and comprehensively
+
 ## NFLOLmodelselection
   feature engineering and Regression model selection using cross validation error and regularization to find the best predictors of Offensive Line play in the NFL
 
@@ -12,16 +18,16 @@ my code for my articles for Sports Analytics Group at Berkeley and personal proj
    Using neural network setup to predict injuries
 
 ## noMoreFoulPlay
-  article on the effect of the changing foul rules on certain players - article titled "No More Foul Play"
+  Article on the effect of the changing foul rules on certain players - article titled "No More Foul Play"
   
 ## OldDogoldtricks
-  article on the 3-point revolution and how one player has curtailed it - article titled "Old Dog, Old Tricks"
+  Article on the 3-point revolution and how one player has curtailed it - article titled "Old Dog, Old Tricks"
   
 ## Nflmvp
-  article on my new metric for MVP taking into account inversely related stats - article titled "NFL MVP: What it should be"
+  Article on my new metric for MVP taking into account inversely related stats - article titled "NFL MVP: What it should be"
   
 ## rbHypotest
-  hypothesis testing to determine whether Derrick Henry would've had another 2000 yard season in 2021 - article titled TBD
+  Hypothesis testing to determine whether Derrick Henry would've had another 2000 yard season in 2021 - article titled TBD
   
 ## UnluckyPenny
-  investigating the relationship between advanced running back tracking stats and fantasy points - article Titled "Unlucky Penny"
+  Investigating the relationship between advanced running back tracking stats and fantasy points - article Titled "Unlucky Penny"
