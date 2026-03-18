@@ -1,6 +1,6 @@
 # Sports-Analytics-Articles-and-Projects
 
-my code for my articles for Sports Analytics Group at Berkeley and personal projects
+my code for my articles for Sports Analytics Group at Berkeley and recent personal projects
 
 ## HardHit Projection
   Projecting Pro hard hit rates from amateur, first by using a correction to wood bat rates... then conducting regression modeling
