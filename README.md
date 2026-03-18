@@ -1,4 +1,4 @@
-# Sports-Analytics-Articles-
+# Sports-Analytics-Articles-and-Projects
 
 my code for my articles for Sports Analytics Group at Berkeley and personal projects
 
