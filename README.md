@@ -5,6 +5,9 @@ my code for my articles for Sports Analytics Group at Berkeley and recent person
 ## HardHit Projection
   Projecting Pro hard hit rates from amateur, first by using a correction to wood bat rates... then conducting regression modeling
 
+## Matchup Analysis
+  This pitcher-hitter matchup analyzer tool visualizes how pitch arsenal, pitch shapes play into expected outcomes of the plate appearance. Used a bayesian method to predict PA outcome probabilities based on tracking metrics.
+
 ## Trackman Data Vis
   Using trackman export to create visuals that summarize performance succinctly and comprehensively
 
