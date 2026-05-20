@@ -2,6 +2,9 @@
 
 my code for my articles for Sports Analytics Group at Berkeley and recent personal projects
 
+## Projection Models for Team Dashboard
+  Model testing to predict player wOBA from underlying stats, and predict next year OPS 
+
 ## HardHit Projection
   Projecting Pro hard hit rates from amateur, first by using a correction to wood bat rates... then conducting regression modeling
 
